@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+<img width="1920" height="544" alt="github 5" src="https://github.com/user-attachments/assets/e9d46d79-5552-4368-a3dc-94c12832a0ae" />[![MasterHead](![Uploading github 5.png…)]
 <h1 align="center">Hi 👋I'am Hema Harshitha</h1>
 <h3 align="center">AI Explorer | Open Source Builder | Passionate About Data & Innovation</h3>
 💫 About Me:<br>🎓 4th Year Data Science Student @ NRI Institute of Technology<br>🏆 Intern at Infosys Springboard | "Pet Haven: Your Trusted Pet Care Services"<br>💻 Building intelligent systems through AI, Data Science, and Full-Stack Engineering<br>🌱 I’m currently Learning and building skills in Data Analytics, Generative AI, and DSA.br>⚡ Fun fact Coding is my kind of fun.
