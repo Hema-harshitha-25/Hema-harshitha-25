@@ -1,4 +1,4 @@
-                                                                  ## Hi 👋I'am Hema Harshitha
+##                                                                     Hi 👋I'am Hema Harshitha
 # 💫 About Me:
 💫 About Me:<br>🎓 4th Year Data Science Student @ NRI Institute of Technology<br>🏆 Intern at Infosys Springboard | "Pet Haven: Your Trusted Pet Care Services"<br>💻 Passionate about AI, Data Science, and Full-Stack Development<br>🌱 I’m currently learning Data Analytics, Generative AI and DSA<br>⚡ Fun fact I code for fun
 
